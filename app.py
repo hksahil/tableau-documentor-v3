@@ -4,7 +4,7 @@ import numpy as np
 import xml.etree.cElementTree as et
 import streamlit as st
 from io import BytesIO
-#from pyxlsb import open_workbook as open_xlsb
+from pyxlsb import open_workbook as open_xlsb
 import graphviz as graphviz
 import re
 
